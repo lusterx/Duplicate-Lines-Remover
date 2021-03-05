@@ -1,0 +1,12 @@
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\bin\Debug\clearduplicates.exe.config
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\bin\Debug\clearduplicates.exe
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\bin\Debug\clearduplicates.pdb
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.csprojAssemblyReference.cache
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.Form1.resources
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.Properties.Resources.resources
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.csproj.GenerateResource.cache
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.csproj.CoreCompileInputs.cache
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.csproj.CopyComplete
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.exe
+C:\Users\lirim\source\repos\clearduplicates\clearduplicates\obj\Debug\clearduplicates.pdb
